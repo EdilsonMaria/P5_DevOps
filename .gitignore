@@ -8,8 +8,8 @@ dist/
 *.log
 
 # Environment files
-.env
-.env.*.local
+//.env
+//.env.*.local
 
 # System files
 .DS_Store
